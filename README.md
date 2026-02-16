@@ -1,2 +1,2 @@
-# personal_musicplayer(chatGPT)
+# personal_musicplayer
 personal music player made by AI (test)
